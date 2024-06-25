@@ -10,3 +10,6 @@ To install the required packages, create a conda environment using this command:
 ```bash
 conda env create -f env.yml
 ```
+
+## Acknowledgment
+This work was supported by European Commission under European Horizon 2020 Programme, under Grant 951911 - AI4Media.
