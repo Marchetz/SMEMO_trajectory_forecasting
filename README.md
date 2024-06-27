@@ -5,7 +5,7 @@ Francesco Marchetti, Federico Becattini, Lorenzo Seidenari, Alberto Del Bimbo.
 Paper (arxiv version): https://arxiv.org/abs/2203.12446
 
 
-![alt text]([http://url/to/img.png](https://github.com/Marchetz/SMEMO_trajectory_forecasting/smemo_figure.png))
+![smemo figure](smemo_figure.png)
 
 ## Installation
 To install the required packages, create a conda environment using this command: 
